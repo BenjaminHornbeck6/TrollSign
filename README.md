@@ -1,3 +1,5 @@
 TrollSign Lets You Add Entitlements To Apps
 
-Example Usage
+```
+./trollsign "path to .app" "path to entitlements file"
+```
